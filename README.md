@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ayush Sharma 👋
 
-<!--
-**Ayush001Sharma/Ayush001Sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate interested in **Cybersecurity** and **Cloud Computing**.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- C
+- C++
+- Python
+- Networking Fundamentals
+- Cryptography Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Interests
+- Cybersecurity
+- Network Security
+- Cloud Infrastructure
+
+## 📚 Currently Learning
+- Linux
+- Network Security
+- Security Tools
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/ayush-sharma-009825253/
