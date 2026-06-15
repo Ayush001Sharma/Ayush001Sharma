@@ -39,4 +39,4 @@ I am a Machine Learning and AI Engineer focused on building production-grade int
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** https://www.linkedin.com/in/ayush-sharma-009825253
+* **LinkedIn:** https://www.linkedin.com/in/ayush-sharma-aiml/
