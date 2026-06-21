@@ -22,11 +22,11 @@ I am a Machine Learning and AI Engineer focused on building production-grade int
 * Evaluated pipeline performance using the Ragas framework, demonstrating a **92% Retrieval Precision** and **88% Faithfulness score** across testing benchmarks.
 * Optimized document chunking strategies and embedding generation pipelines to reduce vector search latency by 20% during dense concurrent queries.
 
-#### 📂 AgenticTask Pro -- Autonomous Multi-Agent Workflows
-* Built a stateful, autonomous AI agent architecture utilizing LangGraph to handle complex, multi-turn reasoning and dynamic task execution models across 4 distinct functional criteria.
-* Integrated 3+ external APIs, optimized PostgreSQL query lookups, and established a reliable human-in-the-loop approval gate to secure multi-turn automation paths.
-* Automated **85% of simulated enterprise workflows** while successfully maintaining **100% state accuracy** and context persistence across long-running interactions.
-* Configured strict schema validation for LLM tool calling outputs to handle parsing anomalies and eliminate infinite reasoning loops during execution.
+#### 📂 AutoFixer AI — Stateful Code-Healer & Self-Debugging Orchestrator
+* Engineered a clean, test-driven Python monolith utilizing LangGraph to intercept runtime crashes, dynamically run isolated AST parsing tools, and execute localized test blocks (pytest).
+* Implemented an immutable state audit log in PostgreSQL that captures file snapshots and structural git diff outputs at every repair step, supporting deterministic rollbacks upon validation failures or human rejection.
+* Structured a decoupled NotificationManager abstraction layer, enabling the agent to effortlessly toggle between SendGrid email dispatches, webhook alerts, and clean terminal logs without violating core architectural constraints.
+* Built real-time telemetry into the execution graph to log critical system metrics, including token-to-repair duration, cyclical code-repair retry counts, and overall verification success rates.
 
 ---
 
