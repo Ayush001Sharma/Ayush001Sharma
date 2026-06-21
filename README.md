@@ -7,10 +7,10 @@ I am a Machine Learning and AI Engineer focused on building production-grade int
 
 ### 💻 Technical Toolkit
 
-* **Core Concepts:** Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, Retrieval-Augmented Generation (RAG), Autonomous AI Agents
+* **Core Concepts:** Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, Retrieval-Augmented Generation (RAG), Autonomous AI Agents, Static Code Analysis (AST)
 * **Programming Languages:** Python, SQL (PostgreSQL)
 * **ML/AI Libraries & Frameworks:** PyTorch, TensorFlow, Scikit-Learn, LangChain, LangGraph, Ragas
-* **Tools & Infrastructure:** Docker, Git, FastAPI, Jupyter Notebooks, ChromaDB, Tavily API, SendGrid
+* **Tools & Infrastructure:** Docker, Git, FastAPI, pytest, Jupyter Notebooks, ChromaDB, Tavily API, SendGrid
 
 ---
 
